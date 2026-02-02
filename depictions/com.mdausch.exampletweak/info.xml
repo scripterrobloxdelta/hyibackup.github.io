@@ -11,9 +11,9 @@
         </description>
     </descriptions>
     <compatibility>
-        <miniOS>11.0</miniOS>
-        <maxiOS>11.1.2</maxiOS>
-    </compatibility>
+		<miniOS>8.0</miniOS>
+		<maxiOS>8.4.1</maxiOS>
+	</compatibility>
     <dependencies>
         <dependency>mobilesubstrate</dependency>
         <dependency>some other dependency</dependency>
